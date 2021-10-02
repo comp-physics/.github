@@ -1,12 +1,6 @@
-## Welcome to the Computational Physics Group @ Georgia Tech Github page! 👋
+## Welcome to the Computational Physics Group @ GT Github page! 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+🏫 We are located in the [CSE school](https://cse.gatech.edu) of the Georgia Tech College of Computing
+🙋 [Prof. Spencer Bryngelson](https://cse.gatech.edu/people/spencer-bryngelson) is the group PI, though the students do much of the work!
+🌐 Our [group website](https://comp-physics.group) has more information about the team about our research
+🖥️ We write lots of code, feel free to dig in if you see something you like!

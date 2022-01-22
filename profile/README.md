@@ -5,4 +5,5 @@
 * We solve problems in ❤️ health and ✈️ defense with **computational methods** and **big computers**
 * 🌐 Our [group website](https://comp-physics.group) has more info. about the team and our research
 * 🖥️ We write lots of code, feel free to dig in if you see something you like!  
+* 🌊 We maintain [MFC](https://github.com/mflowcode), an exascale complex multiphase flow solver 
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 

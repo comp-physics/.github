@@ -6,5 +6,5 @@
 * 🌐 Our [group website](https://comp-physics.group) has more info. about the team and our research
 * 🖥️ We write lots of code, feel free to dig in if you see something you like!  
 * 🌊 We maintain [MFC](https://github.com/mflowcode), an exascale complex multiphase flow solver 
-* We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for infering material properties via cavitation 💦
+* We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for infering material properties via cavitation 💥
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 

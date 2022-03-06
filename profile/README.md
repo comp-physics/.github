@@ -1,4 +1,4 @@
-## Welcome to the Computational Physics Group @ GT! 👋
+## Welcome! 👋
 
 * 🏫 We are located in the [CSE school](https://cse.gatech.edu) of the Georgia Tech College of Computing  
 * We solve problems in ❤️ health and ✈️ defense with **computational methods** and **big computers**

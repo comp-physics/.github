@@ -10,4 +10,4 @@
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC)](https://github.com/mflowcode/mfc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=dark)](https://github.com/mflowcode/mfc)

@@ -7,7 +7,7 @@
 * 🖥️ We write lots of code, feel free to dig in if you see something you like!  
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
 
-Some of our highlighted multi-university software that lives on other Github orgs:
+Some of our multi-university software lives on other Github orgs:
 * 🌊 We maintain [MFC](https://github.com/mflowcode), an exascale complex multiphase flow solver 
 * We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for inferring material properties via cavitation 💥
 

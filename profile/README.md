@@ -13,8 +13,3 @@ Some of our highlighted multi-university software that lives on other Github org
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=github_dark&show_owner=true)](https://github.com/mflowcode/mfc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_data_assimilation&theme=github_dark)](https://github.com/InertialMicrocavitationRheometry/IMR_data_assimilation)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comp-physics&count_private=true)
-
-
-

@@ -11,4 +11,3 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=dark)](https://github.com/mflowcode/mfc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&theme=dark)](https://github.com/mflowcode)

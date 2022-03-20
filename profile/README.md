@@ -8,3 +8,6 @@
 * 🌊 We maintain [MFC](https://github.com/mflowcode), an exascale complex multiphase flow solver 
 * We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for inferring material properties via cavitation 💥
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

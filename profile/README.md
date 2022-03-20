@@ -7,11 +7,11 @@
 * 🖥️ We write lots of code, feel free to dig in if you see something you like!  
 * 👥 If you want to work with us, [check out this page!](https://comp-physics.group/vacancies.html) 
 
-Some of our highlighted software:
+Some of our highlighted multi-university software that lives on other Github orgs:
 * 🌊 We maintain [MFC](https://github.com/mflowcode), an exascale complex multiphase flow solver 
 * We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for inferring material properties via cavitation 💥
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=dark&show_owner=true)](https://github.com/mflowcode/mfc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=dark&show_owner=true&card_width=100)](https://github.com/mflowcode/mfc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=InertialMicrocavitationRheometry&repo=IMR_data_assimilation&theme=dark)](https://github.com/InertialMicrocavitationRheometry/IMR_data_assimilation)
 
 

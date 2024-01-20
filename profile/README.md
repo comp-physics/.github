@@ -12,3 +12,5 @@ Some of our multi-university software lives on other Github orgs:
 * 💥 We also work on [IMR](https://github.com/InertialMicrocavitationRheometry), a code for inferring material properties via cavitation
 
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=mflowcode&repo=MFC&theme=transparent&show_owner=true)](https://github.com/mflowcode/mfc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mflowcode&repo=MFC&theme=transparent&show_owner=true)](https://github.com/mflowcode/mfc)
+
